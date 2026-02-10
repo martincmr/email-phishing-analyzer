@@ -39,4 +39,4 @@ Todo listo. Ahora puede ejecutar el script:
 python analyzer.py mail.eml
 ```
 
-Para más información acerca de ésta herramienta puede consultar mi artículo: https://martincamara.vercel.app/blog/analyzer-tool
+Para más información acerca de ésta herramienta puede consultar mi artículo: https://martincamara.com/blog/analyzer-tool
